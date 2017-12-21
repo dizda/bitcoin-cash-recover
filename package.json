@@ -1,0 +1,15 @@
+{
+  "name": "bitcoin-cash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bitcore-explorers": "^1.0.1",
+    "bitcore-lib-cash": "git+ssh://git@github.com/bitpay/bitcore-lib.git#cash"
+  }
+}
