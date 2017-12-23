@@ -1,6 +1,6 @@
 ### Bitcoin cash converter
 
-Create and process transaction from 2-of-3 multisig BTC addresses to BCC/BCH.
+Create and process transaction from 2-of-3 multisig BTC addresses to BCC/BCH using bitcore.
 Useful to get your BCC funds back, since the fork. 
 
 
