@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "bitcore-explorers": "^1.0.1",
-    "bitcore-lib-cash": "git+ssh://git@github.com/bitpay/bitcore-lib.git#cash"
+    "bitcore-lib-cash": "git+ssh://git@github.com/bitpay/bitcore-lib.git#cash",
+    "mysql": "^2.15.0"
   }
 }

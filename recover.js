@@ -5,9 +5,9 @@ var seed1 = '';
 var seed2 = '';
 var api_endpoints = [
   'https://blockdozer.com/insight-api/',
-  'https://bccblock.info'
+  'https://bccblock.info',
+  'https://bch-bitcore2.trezor.io'
 ];
-//https://bch-bitcore2.trezor.io/
 var wallet1 = createWallet(seed1);
 var wallet2 = createWallet(seed2);
 var fee = BitcoreCash.Unit.fromBTC(0.00100000).toSatoshis();
